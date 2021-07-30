@@ -1,4 +1,4 @@
-package com.hx.designPatterns.observe;
+package com.hx.designPatterns.observer;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.hx.designPatterns.observe;
+package com.hx.designPatterns.observer;
 
 import java.util.ArrayList;
 

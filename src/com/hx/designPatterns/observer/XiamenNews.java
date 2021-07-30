@@ -1,4 +1,4 @@
-package com.hx.designPatterns.observe;
+package com.hx.designPatterns.observer;
 
 public class XiamenNews implements Observe{
     private Float temperature;
